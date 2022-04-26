@@ -17,30 +17,28 @@ Funciona em Android e IOS.
 ![video.gif](https://firebasestorage.googleapis.com/v0/b/smart-ordr.appspot.com/o/ezgif.com-resize.gif?alt=media&token=3d9a010b-ba52-4045-a24e-cb3078e2a2f1)
 ### Dependencias
 
-This project is built with various awesome open sourced libraries
+Este projeto é construído com várias bibliotecas de código aberto incríveis
 
-* [google_maps_flutter](https://pub.dev/packages/google_maps_flutter) -  to show map on screen (Still in beta version)
-* [flutter_bloc](https://pub.dev/packages/flutter_bloc) - to mantain state and make every widget independent using blocs 
-* [bloc](https://pub.dev/packages/bloc) - to listen events on taps by user and dispatch new state to other widgets
-* [equatable](https://pub.dev/packages/equatable) - to make models comparable (Nice Library) 
-* [shimmer](https://pub.dev/packages/shimmer) - to show nice loading effect
-* [location](https://pub.dev/packages/location) - to get current location of user (Feature to be developed)
-
+* [google_maps_flutter](https://pub.dev/packages/google_maps_flutter) - para mostrar o mapa na tela (versão beta)
+* [flutter_bloc](https://pub.dev/packages/flutter_bloc) - para manter o estado, tornar cada widget independente usando blocos
+* [bloc](https://pub.dev/packages/bloc) - para ouvir eventos em toques por usuário e despachar novo estado para outros widgets
+* [equatable](https://pub.dev/packages/equatable) - para tornar os modelos comparáveis ​​(Nice Library)
+* [shimmer](https://pub.dev/packages/shimmer) - para mostrar bom efeito de carregamento
+* [location](https://pub.dev/packages/location) - para obter a localização atual do usuário (Recurso a ser desenvolvido)
 
 ### Instalação
 
-Add your API_KEY and your own credentials from your firebase project to android and ios folders. Run following command in cmd and then run your app
+Adicione sua API_KEY e suas próprias credenciais do seu projeto do Firebase às pastas android e ios. Execute o seguinte comando em cmd e, em seguida, execute seu aplicativo
 
 ```sh
 $ pub get
 ```
 ### Creditos
-Kudos to [Dibbendo Pranto](https://dribbble.com/Dibbendopranto) for this design.
+To [Dibbendo Pranto](https://dribbble.com/Dibbendopranto) for this design.
 
 
 ### Desenvolvedor
 
-We are a team of digital nomads who believe in open-source development and free-for-all products.
-We welcome anyone who is genuine and interested in developing great product that solve real world problems.
+Uma equipe de nômades digitais que acreditam no desenvolvimento de código aberto e produtos gratuitos para todos. Congratulamo-nos com qualquer um que seja genuíno e interessado em desenvolver ótimos produtos que resolvam problemas do mundo real.
 
-You can get in touch with us at dev@ocg.technology
+Você pode entrar em contato com a equipe em dev@ocg.technology
